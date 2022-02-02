@@ -12,7 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title]
+
 <img src="images/2005.jpg?raw=true"/>
 <img src="images/2006.jpg?raw=true"/>
 <img src="images/change.jpg?raw=true"/>
