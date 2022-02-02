@@ -16,7 +16,7 @@
 
 <img src="images/2005.jpg?raw=true"/>
 <img src="images/2006.jpg?raw=true"/>
-<img src="images/change.jpg?raw=true"/>
+<img src="images/Change.jpg?raw=true"/>
 
 ---
 
