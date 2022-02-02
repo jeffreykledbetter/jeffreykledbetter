@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Water Quality]
-<"pdf/Lake_of_Egypt_Water_Quality.pdf/>
+[Water Quality](/pdf/Lake_of_Egypt_Water_Quality.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
