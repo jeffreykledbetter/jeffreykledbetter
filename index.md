@@ -7,7 +7,7 @@
 [Water Quality](/pdf/Lake_of_Egypt_Water_Quality.pdf)
 
 ---
-[Geospatial Statistics](/pdf/sample_presentation.pdf)
+[Geospatial Statistics](/pdf/Statistical Analysis of COVID-19 in Illinois.pdf)
 
 
 ---
