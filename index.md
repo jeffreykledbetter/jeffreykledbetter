@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Water Quality]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/Lake_of_Egypt_Water_Quality.pdf/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
