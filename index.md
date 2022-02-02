@@ -13,7 +13,9 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/2005.jpg?raw=true"/>
+<img src="images/2006.jpg?raw=true"/>
+<img src="images/change.jpg?raw=true"/>
 
 ---
 
