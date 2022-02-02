@@ -2,7 +2,7 @@
 
 ---
 
-## Category Name 1 
+## Undergraduate Studies 
 
 [Water Quality](/pdf/Lake_of_Egypt_Water_Quality.pdf)
 
