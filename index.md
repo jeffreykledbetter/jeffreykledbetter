@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+## Category Name 1 
 
 [Water Quality](/pdf/Lake_of_Egypt_Water_Quality.pdf)
 
@@ -20,7 +20,7 @@
 <img src="images/ex2.jpg?raw=true"/>
 ---
 
-### Graduate Studies
+## Graduate Studies
 
 - [Statistic Analysis](/pdf/Lighting_and_Seizures.pdf)
 - [Remote Sensing/Data Management](/pdf/Term_Project.pdf)
