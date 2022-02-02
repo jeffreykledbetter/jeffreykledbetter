@@ -7,8 +7,8 @@
 [Water Quality](/pdf/Lake_of_Egypt_Water_Quality.pdf)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geospatial Statistics](/pdf/sample_presentation.pdf)
+
 
 ---
 [Project 3 Title]
