@@ -10,19 +10,31 @@
 [Geospatial Statistics](/pdf/Statistical_Analysis_of_COVID-19_in_Illinois.pdf)
 
 ---
-[Project 3 Title]
+[Course Projects]
 
 <img src="images/2005.jpg?raw=true"/>
 <img src="images/2006.jpg?raw=true"/>
 <img src="images/Change.jpg?raw=true"/>
-
+<img src="images/Chicago_airport_noise.jpg?raw=true"/>
+<img src="images/Ohare_Stand_Dist.jpg?raw=true"/>
+<img src="images/ex2.jpg?raw=true"/>
 ---
 
-### Category Name 2
+### Graduate Studies
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Statistic Analysis](/pdf/Lighting_and_Seizures.pdf)
+- [Remote Sensing/Data Management](/pdf/Term_Project.pdf)
+
+- [Course Projects]
+
+<img src="images/Clustering.jpg?raw=true"/>
+<img src="images/Tulsa_CO_block_asian.jpg?raw=true"/>
+<img src="images/Population.jpg?raw=true"/>
+<img src="images/African_Seasonal_Change.jpg?raw=true"/>
+<img src="images/Roi_new.jpg?raw=true"/>
+<img src="images/Penny_Royal_Kriging.jpg?raw=true"/>
+
+
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
