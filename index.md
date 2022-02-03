@@ -38,7 +38,7 @@
 
 
 - [ArcGis Online GeoApp](https://www.arcgis.com/apps/dashboards/5c51c534a9764ae3b396d8aec6325cb9)
-- [ArcGis Online Story Map](http://example.com/)
+- [ArcGis Online Story Map](https://storymaps.arcgis.com/stories/5eb14a6efafb456d9710a5ef45b204d9)
 
 ---
 
