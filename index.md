@@ -30,8 +30,8 @@
 <img src="images/Clustering.jpg?raw=true"/>
 <img src="images/Tulsa_CO_block_asian.jpg?raw=true"/>
 <img src="images/Population.jpg?raw=true"/>
-<img src="images/African_Seasonal_Change.jpg?raw=true"/>
-<img src="images/Roi_new.jpg?raw=true"/>
+<img src="images/African_Seasonal_Change.gif?raw=true"/>
+<img src="images/Roi_new.png?raw=true"/>
 <img src="images/Penny_Royal_Kriging.jpg?raw=true"/>
 
 
