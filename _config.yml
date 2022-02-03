@@ -1,10 +1,18 @@
 title: Jeffrey K Ledbetter   email jkledbetter6070@gmail.com # your name (or website title) here
 logo: "/images/passport_afghn.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  Personal description 
+  <br>Current Masters student in Geography and Environmental Sustainability
+  with a focus in Geographical Information Technologies at the University of Oklahoma.
+  Undergraduate studies included a Bachelor of Science in Geography and Environmental Sustainability
+  with a focus in Geographical Information Systems and a Bachelor of Arts in Administration of Justice
+  with a Minor in Environmental Science from Southern Illinois University at Carbondale. Father of three boys, 
+  retired police officer, and served two years with the U.S. State Department in the High Threat Protection
+  Division in Kabul, Afghanistan<br>
+  Software Knowledge 
+  <br>ESRI Arcdesktop, ArcPro, ArcGIS Online, GeoApps, Python, RStudio, GitHub, PostGIS,
+  PostSQL, OpenRefine, Google Earth Engine,
+  Microsoft Office<br>
   <a href="https://www.linkedin.com/in/jeffrey-ledbetter-492740201/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
