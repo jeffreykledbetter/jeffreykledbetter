@@ -30,9 +30,11 @@
 <img src="images/Clustering.jpg?raw=true"/>
 <img src="images/Tulsa_CO_block_asian.jpg?raw=true"/>
 <img src="images/Population.jpg?raw=true"/>
+<img src="images/Penny_Royal_Kriging.jpg?raw=true"/>
+[MODIS Temperature Sensing]
 <img src="images/African_Seasonal_Change.gif?raw=true"/>
 <img src="images/Roi_new.png?raw=true"/>
-<img src="images/Penny_Royal_Kriging.jpg?raw=true"/>
+
 
 
 - [ArcGis Online GeoApp](https://www.arcgis.com/apps/dashboards/5c51c534a9764ae3b396d8aec6325cb9)
