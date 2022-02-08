@@ -1,6 +1,8 @@
 # Portfolio
 
 ---
+[Resume](/pdf/Resume3.pdf)
+
 
 ## Undergraduate Studies 
 
