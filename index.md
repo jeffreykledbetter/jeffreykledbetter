@@ -3,6 +3,8 @@
 ---
 [Resume](/pdf/Resume3.pdf)
 
+[Email](jkledbetter6070@gmail.com)
+
 
 ## Undergraduate Studies 
 
