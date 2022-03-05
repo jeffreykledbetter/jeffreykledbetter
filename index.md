@@ -26,7 +26,6 @@
 
 ## Graduate Studies
 
-- [Statistic Analysis](/pdf/Lighting_and_Seizures.pdf)
 - [Remote Sensing/Data Management](/pdf/Term_Project.pdf)
 
 - [Course Projects]
