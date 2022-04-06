@@ -41,7 +41,7 @@
 
 
 - [ArcGis Online GeoApp](https://www.arcgis.com/apps/dashboards/5c51c534a9764ae3b396d8aec6325cb9)
-- [ArcGis Online Story Map](https://storymaps.arcgis.com/stories/5eb14a6efafb456d9710a5ef45b204d9)
+- [ArcGis Online Story Map](https://storymaps.arcgis.com/stories/6a4adcae27624647a0ecdab8cb7a6596)
 - [Google Earth Engine App](https://Jkledbetter.users.earthengine.app/view/pre-and-post-wildfire)
 
 ---
