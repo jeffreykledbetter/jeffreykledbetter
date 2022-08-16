@@ -27,7 +27,7 @@
 ## Graduate Studies
 
 - [Remote Sensing/Data Management](/pdf/Term_Project.pdf)
-
+- [Capstone Project](/pdf/Ledbetter_Research_wroking_copy.pdf)
 - [Course Projects]
 
 <img src="images/Clustering.jpg?raw=true"/>
