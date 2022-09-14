@@ -30,6 +30,7 @@
 - [Capstone Project](/pdf/Ledbetter_Research_wroking_copy.pdf)
 - [Course Projects]
 
+<img src="images/diploma.jpg?raw=true"/>
 <img src="images/Clustering.jpg?raw=true"/>
 <img src="images/Tulsa_CO_block_asian.jpg?raw=true"/>
 <img src="images/Population.jpg?raw=true"/>
