@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-[Resume](/pdf/Resume3.pdf)
+[Resume](/pdf/New_Resume.pdf)
 
 ### Email: jkledbetter6070@gmail.com
 
